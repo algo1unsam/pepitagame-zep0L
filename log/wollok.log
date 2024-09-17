@@ -1,0 +1,10 @@
+{"level":"info","message":"⌛ Building environment","timeElapsed":247,"timestamp":"2024-09-17T16:10:14.555Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///home/leon/Work/ALGO1/2024/Workspace/pepitaGame","timestamp":"2024-09-17T16:10:14.561Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":127,"timestamp":"2024-09-17T16:10:14.690Z"}
+{"level":"info","message":"⌛ Validating pepitaTest.wtest","timeElapsed":261,"timestamp":"2024-09-17T16:10:16.873Z"}
+{"level":"info","message":"⌛ Validating silvestreTest.wtest","timeElapsed":230,"timestamp":"2024-09-17T16:10:17.103Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":227,"timestamp":"2024-09-17T16:37:37.001Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///home/leon/Work/ALGO1/2024/Workspace/pepitaGame","timestamp":"2024-09-17T16:37:37.005Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":137,"timestamp":"2024-09-17T16:37:37.144Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pepitaGame.PepitaGame on /home/leon/Work/ALGO1/2024/Workspace/pepitaGame","timeElapsed":128298,"timestamp":"2024-09-17T16:39:50.339Z"}
+{"exitCode":"SIGINT","level":"info","message":"👾 Game executed pepitaGame.PepitaGame on /home/leon/Work/ALGO1/2024/Workspace/pepitaGame","timeElapsed":165886,"timestamp":"2024-09-17T19:26:09.233Z"}
